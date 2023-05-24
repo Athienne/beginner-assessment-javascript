@@ -8,7 +8,12 @@ This program is a simple creation of a sample NFT using JavaScript, a programmin
 Executing program
 To run this program, you can use any IDE that can run JavaScript programs (Visual Studio Code, online JavaScript compilers (https://www.programiz.com/javascript/online-compiler/), etc.). Copy and paste the code from the file "MyNFT.js".
 
-Once the code is pasted on your IDE of choice, you may run the program immediately. In order to create your own NFT, you may create a function call of the function mintNFT by writing "mintNFT(<your desired name of NFT>, <your desired eye color>, <your desired shirt type>, <your desired bling>) below the last function call of mintNFT(). You may use the comments on the JavaScript program as a guide.
+Once the code is pasted on your IDE of choice, you may run the program immediately. In order to create your own NFT, you may create a function call of the function mintNFT() by writing:
+
+``` "mintNFT("your desired name of NFT", "your desired eye color", "your desired shirt type", "your desired bling"); ```
+
+##### The code must be written below the last function call of mintNFT(). You may use the comments on the JavaScript program as a guide. 
+
 
 After you have created your own NFT, you may run the program to see the details of NFTs created before and your latest addition to the list of NFTs.
   
