@@ -10,7 +10,7 @@ To run this program, you can use any IDE that can run JavaScript programs (Visua
 
 Once the code is pasted on your IDE of choice, you may run the program immediately. In order to create your own NFT, you may create a function call of the function mintNFT() by writing:
 
-``` "mintNFT("your desired name of NFT", "your desired eye color", "your desired shirt type", "your desired bling"); ```
+``` mintNFT("your desired name of NFT", "your desired eye color", "your desired shirt type", "your desired bling"); ```
 
 ##### The code must be written below the last function call of mintNFT(). You may use the comments on the JavaScript program as a guide. 
 
